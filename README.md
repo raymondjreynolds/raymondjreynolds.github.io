@@ -1,2 +1,2 @@
-# raymondjreynolds.github.io
-Online portfolio
+# Raymond J. Reynolds
+Welcome to my online portfolio!
