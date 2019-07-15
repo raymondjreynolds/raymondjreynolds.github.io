@@ -1,2 +1,1 @@
-# Raymond J. Reynolds
-Welcome to my online portfolio!
+Online portfolio test landing page
