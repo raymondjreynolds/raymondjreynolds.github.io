@@ -3,6 +3,7 @@ layout: page
 title: Raymond J. Reynolds
 permalink: /about
 comments: false
+subscription: false
 ---
 
 <div class="row justify-content-between">

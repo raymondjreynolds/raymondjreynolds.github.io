@@ -1,0 +1,15 @@
+I"Æ<h3>Stay Tuned for my first few recipes!</h3>
+
+<p>In the meantime, please continue browsing the site. Also consider subscribing for the latest homecook recipes!</p>
+<p><br /><br /><br /><br /></p>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
+:ET
