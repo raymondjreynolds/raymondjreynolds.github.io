@@ -16,6 +16,7 @@
 
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
+
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 </head>
@@ -72,8 +73,18 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">Hobbies</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about">Professional Resume</a>
                 </li>
+
+            <!-- FUTURE WORK 
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/recipes">Cookbook</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ sit.baseurl }}/stories">Creative Writing</a>
+                </li>
+            -->
 
 
                 {% include search-lunr.html %}
@@ -94,14 +105,14 @@ ga('send', 'pageview');
 <div class="container">
 
 <!-- Site Title
-================================================== -->
+================================================== 
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
 </div>
-
+-->
 <!-- Content
 ================================================== -->
 <div class="main-content">
@@ -110,7 +121,7 @@ ga('send', 'pageview');
 
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
-================================================== -->
+================================================== 
 <div class="alertbar">
 	<div class="container text-center">
 		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
@@ -121,7 +132,7 @@ ga('send', 'pageview');
             </div>
         </form>
 	</div>
-</div>
+</div>-->
 {% endif %}
     
 </div>
@@ -132,9 +143,10 @@ ga('send', 'pageview');
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
             <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline"></span></h2>
             </div>
 		</div>
+        <!--
 		<div class="col-md-8 p-5 align-self-center text-center">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
@@ -147,7 +159,7 @@ ga('send', 'pageview');
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
-		</div>
+		</div>-->
 	</div>
 </div>
 
@@ -157,7 +169,6 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net

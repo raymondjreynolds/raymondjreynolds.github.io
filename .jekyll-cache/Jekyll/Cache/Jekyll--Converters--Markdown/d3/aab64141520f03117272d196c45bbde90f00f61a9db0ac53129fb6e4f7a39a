@@ -1,0 +1,32 @@
+I"Ô<div class="row justify-content-between">
+
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h4>Education</h4>
+<p>Stanford University 2014-2018</p>
+<p>BS Electrical Engineering w/ minor in Management Science and Engineering</p>
+<a href="https://www.linkedin.com/in/raymondjreynolds" class="btn btn-warning">LinkedIn</a>
+</div>
+</div>
+<div class="col-md-8 pr-5">
+
+<h4>Work Experience</h4>
+
+<p><strong>Software Engineer - Microsoft:</strong> Nov 2019 - Current</p>
+<p>As a member of Azure's SQL Database team, I am working towards further optimizing internal resource management. Specifically, I am leading a rework of hard disk related management strategy by leveraging time series data.</p>
+
+<p><strong>Software Engineer - Cisco Systems:</strong> June 2018 - Nov 2019</p>
+<p>My main responsibilities at Cisco involved developing internal automation tools and applications. Some of the specific processes I leveraged were data analysis, real-time telemetry streaming, and machine learning. Additionally, I led a small subteam initiative to research &amp; prototype machine learning models with the intent to optimize, streamline, and automate current development + testing workflows. We applied clustering algorithms, Naive Bayes Classifiers, neural networks, and decision trees on medium-sized datasets (~20000 observations).</p>
+
+<p><strong>Technical Evaluations Intern
+
+<h4>Second header</h4>
+
+<p>Second header's text</p>
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+</strong></p></div></div>
+:ET
