@@ -1,7 +1,7 @@
 # Site
-name: "config name field"
-title: "config title field"
-description: "config description field"
+name: "Raymond J. Reynolds"
+title: "Raymond's Online Portfolio"
+description: "This website contains Raymond's online portfolio and personal hobby blogs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /raymondjreynolds.github.io
@@ -17,11 +17,11 @@ authors:
   sal:
     name: Raymond
     display_name: Raymond
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: rjreyn12@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "SE at Microsoft's Azure"
+    description: "Software Engineer at Microsoft Azure"
 
 # Plugins
 plugins:

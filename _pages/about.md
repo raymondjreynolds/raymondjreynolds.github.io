@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raymond J. Reynolds
+title: Resume / CV
 permalink: /about
 comments: false
 subscription: false
